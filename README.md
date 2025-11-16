@@ -1,2 +1,2 @@
-# Mive_300L
-Code repository for Lab Projects
+# Miva_300L
+Code repository for School Lab Projects
